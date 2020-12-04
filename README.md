@@ -61,6 +61,6 @@
 
 
 ## References
-<b id="my_anchor">[1].</b> National Crime Records Bureau- Ministry of Home Affairs,2009, _State/UT-wise Complaints received by Police & Cases registered under IPC & SLL during 2009_, electronic dataset,Open Government Data (OGD) Platform India, [https://data.gov.in/resources/stateut-wise-complaints-received-police-cases-registered-under-ipc-sll-during-2009](https://data.gov.in/resources/stateut-wise-complaints-received-police-cases-registered-under-ipc-sll-during-2009).
+<b id="my_anchor">[1].</b> Primary Energy Consumption in Select Countries of the World from 2012 to 2018, [https://data.gov.in/resources/primary-energy-consumption-in-select-countries-of-the-world-from-2012-](https://data.gov.in/resources/primary-energy-consumption-in-select-countries-of-the-world-from-2012-).
 
 
