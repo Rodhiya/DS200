@@ -6,9 +6,8 @@
 > **Aim of this assignment is to explore one of datasets in data.gov.in and plot in matplotlib**
 
 ### Part1: - Dataset
-> The dataset is <a href="#my_anchor">[1]</a> **Primary Energy Consumption in Select Countries of the World from 2012 to 2018** and is  downloaded from www.data.gov.in.
->> The link to download the dataset is https://data.gov.in/resources/stateut-wise-complaints-received-police-cases-registered-under-ipc-sll-during-2009 .<br/> The data is uploaded by **National Crime Records Bureau- Ministry of Home Affairs** (http://ncrb.gov.in/). <br/>The data gives the statistics of the method of complaint registration (oral/written/helpline/suomoto by police) and the category in which complaint is registered (IPC or SLL) for all states and U.Ts for the year 2008-9
-
+> The dataset is <a href="#my_anchor">[1]</a> **Primary Energy Consumption in Select Countries of the World from 2012 to 2018** and is  downloaded from [here](https://data.gov.in/resources/primary-energy-consumption-in-select-countries-of-the-world-from-2012-).
+>> The data is released under ** National Data Sharing and Accessibility Policy (NDSAP)** 
 
 ### Files
 > All the files are contained in the zip folder **module4**
