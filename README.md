@@ -5,17 +5,18 @@
 
 > **Aim of this assignment is to explore one of datasets in data.gov.in and plot in matplotlib**
 
-### Part1: - Dataset
+###  Dataset
 > The dataset is <a href="#my_anchor">[1]</a> **Primary Energy Consumption in Select Countries of the World from 2012 to 2018** and is  downloaded from [here](https://data.gov.in/resources/primary-energy-consumption-in-select-countries-of-the-world-from-2012-).
 >> The data is released under ** National Data Sharing and Accessibility Policy (NDSAP)** 
 
-### Files
+###  Files
+
 1.  There are folders named as 'data' and 'plots' inside ZIP file. Along with these, python script, 'DS200Plots.py' is also there.
 2.  'data' folder contains the data file, 'primaryEnergy.xls'. And all the plots are saved in 'plots' folder
 3.  Along with these, I am also uploading the jupyter notebook, 'DS200Plots.ipynb'  
 
-### Part2: - Scatter Plot
-
+###  Plots
+#### (a) Scatter plot
 ![scatterplot](plots/scatterPlot.png)
 
 1.  The plot on left has **Number of complaints registered suomoto by police** -i.e The cases registered by police based on their investigation - vs **Number of complaints registered as SLL** (SLL:- Special and Local Laws, these are laws which are not part of IPC and include law instituted by Acts like Gambling Act 1867, Forest Act 1927, etc) for 28 states (based on 2009 data) and 7 union territories of India.
