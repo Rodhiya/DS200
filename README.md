@@ -10,15 +10,13 @@
 >> The data is released under ** National Data Sharing and Accessibility Policy (NDSAP)** 
 
 ### Files
-> All the files are contained in the zip folder **module4**
-1.  **NCRB_2009_Table_1.1.csv** is the file containing all the data. The file is same as downloaded from website, only the names of states are shortened.
-2.  **ds200_module4_plots.py** is the file containing python code for the creating the graphs using _matplotlib_ library.
-3.  Copy **plot_graphs.ipynb** in the **module4** folder if you want to use Jupyter Notebook.
+1.  There are folders named as 'data' and 'plots' inside ZIP file. Along with these, python script, 'DS200Plots.py' is also there.
+2.  'data' folder contains the data file, 'primaryEnergy.xls'. And all the plots are saved in 'plots' folder
+3.  Along with these, I am also uploading the jupyter notebook, 'DS200Plots.ipynb'  
 
 ### Part2: - Scatter Plot
-> Below are two scatterplot.
 
-![scatterplot](images/Figure_1.png)
+![scatterplot](plots/scatterPlot.png)
 
 1.  The plot on left has **Number of complaints registered suomoto by police** -i.e The cases registered by police based on their investigation - vs **Number of complaints registered as SLL** (SLL:- Special and Local Laws, these are laws which are not part of IPC and include law instituted by Acts like Gambling Act 1867, Forest Act 1927, etc) for 28 states (based on 2009 data) and 7 union territories of India.
 2.  The plot on the right has **Number of complaints registered to police by oral,written or via helpline** vs **Number of cases registered as SLL**  for 28 states (based on 2009 data) and 7 union territories of India.
@@ -34,8 +32,8 @@
 
 ### Part2: - Box Plot
 > Below are two boxplots.
-
-![Boxplot](images/Figure_2.png)
+![scatterplot](plots/BoxPlot_log.png)
+![scatterplot](plots/scatterPlot_linear.png)
 
 1.  The plot on the left shows the box plot of **Number of complaints received by police** in two catergories. First the complaints which are submitted to police by other entities via oral,written means or using police helpline for all 35 states and U.Ts. Second are the complaints that are registered by police suomoto for all 35 states and U.Ts. The first boxplot shows the number of complaints on log scale along with the outliers.
 2. The second boxplot shows the same data as (1) but on a linear scale without outliers.
@@ -49,7 +47,7 @@
 ### Part3: - Bar Chart
 > Below is the Barchart which shows for all States and U.Ts (those that existed in 2009) how many complaints are filed by non law enforcers and suomoto by police.
 
-![Barchart](images/Figure_3.png)
+![lineplot](plots/lineplot.png)
 
 1.  The Bar chart shows on log10 scale the **number of complaints**. The **blue** bar denoted the **number of complaints  received by police via oral/written/helpline** and the **red** bar denoted the **number of complaints filed suomoto by police** for all 35 states and U.Ts .
 
