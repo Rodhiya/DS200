@@ -33,7 +33,7 @@
 
 #### (b) Box Plot
 > Below are two boxplots.
-![scatterplot](plots/boxplot_linear.png)<br>
+![scatterplot](plots/boxplot_linear.png)
 ![scatterplot](plots/boxplot_log.png)
 
 1.  The plot on the left shows the box plot of **Number of complaints received by police** in two catergories. First the complaints which are submitted to police by other entities via oral,written means or using police helpline for all 35 states and U.Ts. Second are the complaints that are registered by police suomoto for all 35 states and U.Ts. The first boxplot shows the number of complaints on log scale along with the outliers.
