@@ -19,7 +19,9 @@
 #### (a) Scatter plot
 ![scatterplot](plots/scatterPlot.png)
 
-1. 
+1. In this scatter plot, we did comparison of primary energy consumption between year 2012 and 2018.
+2. Each data point represent energy consumption by different country. There are 99 data points in total.
+3. From this we can say trend is almost same for both years. Few countries are consuming high amount of energy in both years. 
 * * *
 
 #### (b) Box Plot
