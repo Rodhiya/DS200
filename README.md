@@ -28,7 +28,9 @@
 ![scatterplot](plots/boxplot_linear.png)
 ![scatterplot](plots/boxplot_log.png)
 
-1. 
+1. Here I plotted box-plot for primary energy consumption for each year from 2012 till 2018.
+2. I have plotted two box-plots, first one is on linear scale without outliers and second one on log scale with the outliers.
+3. One can observe decrease in maximum values after year 2013 in linear scale plot. But median is increasing as we go to year 2018.
 
 * * *
 ### Part3: - Lineplot
